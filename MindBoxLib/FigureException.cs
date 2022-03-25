@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace MindBox
+namespace MindBoxLib
 {
-    public class FigureException : ArgumentException
+    public class FigureException : ArgumentException//класс исключения
     {
         public FigureException(string message)
             : base(message)

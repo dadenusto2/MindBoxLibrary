@@ -1,23 +1,7 @@
 ﻿using System;
 
-namespace MindBox
+namespace MindBoxLib
 {
-    // Площадь окружности
-    public static class Circle // cтатичный класс, т.к. не создаем объектов этого класса
-    {
-        private static void isExists(double a)//проверка существования круга
-        {
-            if (a <= 0)
-                throw new FigureException("Figure does not exist!");//ошибка если не прошел проверку
-        }
-        public static double square(double a)//площадь
-        {
-            isExists(a);
-            return Math.PI * a * a;
-        }
-    }
-
-    // Площадь и проверка прямоугольного треугольника
     public static class Triangle
     {
         private static void isExists(double a, double b, double c)//проверка существования треугольника

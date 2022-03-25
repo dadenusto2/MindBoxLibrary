@@ -1,0 +1,11 @@
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\bin\Debug\net5.0\MindBoxLib.deps.json
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\bin\Debug\net5.0\MindBoxLib.dll
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\bin\Debug\net5.0\ref\MindBoxLib.dll
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\bin\Debug\net5.0\MindBoxLib.pdb
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\obj\Debug\net5.0\MindBoxLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\obj\Debug\net5.0\MindBoxLib.AssemblyInfoInputs.cache
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\obj\Debug\net5.0\MindBoxLib.AssemblyInfo.cs
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\obj\Debug\net5.0\MindBoxLib.csproj.CoreCompileInputs.cache
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\obj\Debug\net5.0\MindBoxLib.dll
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\obj\Debug\net5.0\ref\MindBoxLib.dll
+C:\Users\kgeny\source\repos\MindBoxLibrary\MindBoxLib\obj\Debug\net5.0\MindBoxLib.pdb
